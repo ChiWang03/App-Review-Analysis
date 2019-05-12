@@ -1,4 +1,5 @@
 # App-Review-Analysis
+Not all notebooks and data are included in this repository, due to research reasons.
 
 This repository includes two Natural Language Processing approaches
 * Topic Modelling 
@@ -16,4 +17,6 @@ The notebook goes through the preprocessing of data
 * Stemming
 * approaches to filter out different languages
 * optimizing and filtering out words that don't belong in the english dictionary
+
+
 
