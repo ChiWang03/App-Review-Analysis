@@ -3,7 +3,7 @@ Not all notebooks and data are included in this repository, due to research reas
 
 This repository includes two Natural Language Processing approaches on Google Play app reviews 
 * Topic Modelling 
-  * Using different methods in gensim (LDA, LDA MALLET)
+  * Using different methods in gensim (LDA, LDA MALLET) to see what people are talking about in these apps
   * NMF was also tested but results were not great
 * Sentiment Analysis
   * Using different methods to classify sentiment 
