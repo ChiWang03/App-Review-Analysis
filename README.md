@@ -1,7 +1,7 @@
 # App-Review-Analysis
 Not all notebooks and data are included in this repository, due to research reasons.
 
-This repository includes two Natural Language Processing approaches
+This repository includes two Natural Language Processing approaches on Google Play app reviews 
 * Topic Modelling 
   * Using different methods in gensim (LDA, LDA MALLET)
   * NMF was also tested but results were not great
