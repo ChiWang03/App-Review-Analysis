@@ -8,7 +8,7 @@ This repository includes two Natural Language Processing approaches on Google Pl
 * Sentiment Analysis
   * Using different methods to classify sentiment 
   * The best classifier would be used to filter out non-informative text
-  * non-informative user-reviews refer to the reviews that have sentiment not matching the scores 
+  * non-informative user-reviews refer to the reviews that have sentiment not matching the scores (score > 3 => positive, == 3 => neutral, < 3 => negative)
   * Sentiment analysis inspired by: https://github.com/bertcarremans/TwitterUSAirlineSentiment/blob/master/source/Predicting%20sentiment%20with%20text%20features.ipynb
  
 
