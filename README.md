@@ -5,7 +5,7 @@ This repository includes two Natural Language Processing approaches on Google Pl
 * [Topic Modelling](https://github.com/chiwang0503/App-Review-Analysis/blob/master/Topic_Modelling_by_year.ipynb)
   * Using different methods in gensim (LDA, LDA MALLET) to see what people are talking about in these apps
   * NMF was also tested but results were not great
-* [Sentiment Analysis](https://github.com/chiwang0503/App-Review-Analysis/blob/master/Topic_Modelling_by_year.ipynb)
+* [Sentiment Analysis](https://github.com/chiwang0503/App-Review-Analysis/blob/master/Sentiment_Classifier.ipynb)
   * Using different methods to classify sentiment 
   * The best classifier would be used to filter out non-informative text
   * non-informative user-reviews refer to the reviews that have sentiment not matching the scores (score > 3 => positive, == 3 => neutral, < 3 => negative)
